@@ -1,16 +1,7 @@
-# cyberbowling
+# Cyberbowling
 
-A new Flutter project.
+Cyberbowling is an engaging and dynamic mobile game where you control a bowling ball, moving it horizontally to knock down incoming pins. The goal is to score as many points as possible by hitting the pins, but missing even one results in game over. The game features a pause function, level restart, and immersive music and sound effects, providing an exciting and challenging experience for all players.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uploading menu.jpg…]()
+![gameplay](https://github.com/D1ss1dent/cyberbowling/assets/140563769/f2be992c-5a23-42ee-96fb-f2417f45880d)
+![Uploading pause.jpg…]()
